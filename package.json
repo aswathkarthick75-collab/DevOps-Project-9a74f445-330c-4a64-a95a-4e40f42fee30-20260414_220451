@@ -1,0 +1,20 @@
+{
+  "name": "devops-project-9a74f445-330c-4a64-a95a-4e40f42fee30",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.3.4",
+    "@vitejs/plugin-react": "^4.3.1"
+  }
+}
